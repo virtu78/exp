@@ -1,0 +1,7 @@
+export function setHeadline(create) {
+	return {
+		type: 'ADD_HEADLINE',
+		payload: create
+		
+	}
+}

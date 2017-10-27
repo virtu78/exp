@@ -1,0 +1,6 @@
+const initialState = {
+	headline: "Baby ready",
+}
+export	default	function	userstate(state	=	initialState)	{
+		return	state;
+}

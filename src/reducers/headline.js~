@@ -1,0 +1,6 @@
+const	initialState	=	{
+		headline:	'Unknown	User'
+};
+export	default	function	headlinestate(state	=	initialState)	{
+		return	state;
+}
